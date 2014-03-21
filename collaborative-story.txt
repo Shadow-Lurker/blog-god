@@ -1,0 +1,13 @@
+// If you are trusted to edit this, dont delete anything.
+// I have everything backed up to my computer so it is useless to delete
+// Most importantly, write what you want to write.
+
+March 20, 2014
+Nothing much happened today. I just made this blog and that's it. I played a bit of Starbound (My latest gaming addiction.) but after that I got back to diy.org
+I hope I'll be able to update every day. Thanks for reading!
+<<<<<<< HEAD
+
+March 21, 2014
+Just got up. I have no idea what I’ll do today.
+=======
+>>>>>>> bf50f11c469a6666e268e270b429af57df12a3c0
